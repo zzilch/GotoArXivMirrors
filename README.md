@@ -3,8 +3,8 @@ UserScript - Open arXiv sites with arXiv mirrors
 
 ## Features
 - Available mirrors: Main, China, Germany, India
-- Auto complete pdf url in abstract pages
-- Auto complete pdf url in pdf pages
+- Auto complete the pdf href in the abstract html
+- Auto modify the pdf url in the pdf page without redirecting
   
 ![usage](./img/usage.png)
 
