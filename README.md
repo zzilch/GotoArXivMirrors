@@ -1,2 +1,7 @@
 # GotoArXivMirrors
-Userscript - Open arXiv sites with arXiv mirrors
+UserScript - Open arXiv sites with arXiv mirrors
+## Usage
+1. Install [Tempermonkey](https://www.tampermonkey.net/) for you browser
+2. Add a new userscript using the code in [GotoArXivMirrors.js](./GotoArXivMirrors.js)
+3. Click the Tempermonkey button to choose mirrors when visiting arXiv sites
+![usage](./img/usage.png)
