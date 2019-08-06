@@ -2,7 +2,7 @@
 // @name         GotoArXivMirrors
 // @namespace    https://github.com/zzilch/GotoArXivMirrors
 // @homepage     https://github.com/zzilch/GotoArXivMirrors
-// @version      1.0
+// @version      1.1
 // @author       zzilch
 // @description  Open arXiv sites with arXiv mirrors
 // @include      /^https?://(.*\.)?arxiv\.org/.*/
@@ -34,7 +34,7 @@
     }
     
     // append the filename extension for downloading
-    if(incompletePDF(location.href)) { location.replace(location.href+'.pdf') }
+    if(incompletePDF(location.href)) { history.pushState(null,"",location.href+'.pdf') }
     
     // complete pdf url with filename extension after the document is loaded
     onload = function(){
