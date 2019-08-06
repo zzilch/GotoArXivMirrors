@@ -10,7 +10,7 @@ UserScript - Open arXiv sites with arXiv mirrors
 
 ## Usage
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for you browser
-2. **Recommended [From GreasyFork]** Install the userscript from GreasyFork (auto update): https://greasyfork.org/en/scripts/388226-gotoarxivmirrors  
-**Or [Manually]** Add a new userscript using the code in [GotoArXivMirrors.js](./GotoArXivMirrors.js)
+2. **From GreasyFork[Recommended]** Install the userscript from GreasyFork (auto update): https://greasyfork.org/en/scripts/388226-gotoarxivmirrors  
+**Or Manually** Add a new userscript using the code in [GotoArXivMirrors.js](./GotoArXivMirrors.js)
 3. Click the Tempermonkey button to choose mirrors when visiting arXiv sites
 
