@@ -14,3 +14,7 @@ UserScript - Open arXiv sites with arXiv mirrors
 **Or Manually** Add a new userscript using the code in [GotoArXivMirrors.js](./GotoArXivMirrors.js)
 3. Click the Tempermonkey button to choose mirrors when visiting arXiv sites
 
+## Others
+GotoArXivCN: auto redirect to ArXivCN for users in China.  
+- **GreasyFork**: https://greasyfork.org/zh-CN/scripts/388330-gotoarxivcn  
+- **Source**: [GotoArXivCN.js](./GotoArXivCN.js)
